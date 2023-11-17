@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pertemuan9</string>
+    <string name="next">Lanjut</string>
+    <string name="back_button">Kembali</string>
+    <string name="submit_button">Submit</string>
+    <string name="dosen1">Haris Setiawan</string>
+    <string name="dosen2">Dwi Djoko P</string>
+    <string name="dosen3">Aprilia Kurnianti</string>
+
+
+
+</resources>
